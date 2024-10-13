@@ -1,0 +1,1 @@
+stm32f401ccu6_spi_nrf24l01_v2.0\startup_stm32f401xc.o: startup_stm32f401xc.s
